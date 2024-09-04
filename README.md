@@ -1,4 +1,4 @@
-# Hotel Manager App
+# Hotsel Manager App
 
 # Images:
 <img src="https://github.com/user-attachments/assets/44089a94-3b6e-4cd6-b7ae-a516449230dc" alt="Image 1" width="100" height="200">
