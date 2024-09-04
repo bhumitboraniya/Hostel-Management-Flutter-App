@@ -25,10 +25,10 @@ The Hotel Manager App is a Flutter-based application designed to manage hotel op
 
 ## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/hotel_manager.git
-
+**Clone the repository:**
+```
+git clone https://github.com/yourusername/hotel_manager.git
+```
 
 ## Navigate to the project directory:
 
